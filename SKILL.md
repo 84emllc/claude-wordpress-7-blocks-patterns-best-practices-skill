@@ -224,6 +224,7 @@ WordPress 7.0 also supports pseudo-class selectors (`:hover`, `:focus`, `:active
 
 ## Sources
 
+- Block Editor Handbook: <https://developer.wordpress.org/block-editor/reference-guides/>
 - Block Editor Handbook -- Patterns: <https://developer.wordpress.org/block-editor/reference-guides/block-api/block-patterns/>
 - Theme Handbook -- Patterns: <https://developer.wordpress.org/themes/patterns/>
 - Comparing Patterns, Template Parts, and Synced Patterns: <https://wordpress.org/documentation/article/comparing-patterns-template-parts-and-reusable-blocks/>
